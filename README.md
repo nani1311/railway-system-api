@@ -117,3 +117,9 @@ Login: POST /api/auth/login
 Add a Train: POST /api/trains
 Check Availability: GET /api/trains/availability?source=City A&destination=City B
 Book a Seat: POST /api/bookings
+
+
+
+## Repository Link
+
+You can view the complete codebase here: [Railway System API GitHub Repository](https://github.com/nani11311/railway-system-api)
